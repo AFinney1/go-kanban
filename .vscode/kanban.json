@@ -1,0 +1,35 @@
+{
+    "title": "Kanban",
+    "cols": [
+        {
+            "title": "To-Do",
+            "tasks": [
+                {
+                    "text": "Add persistence to Go Kanban board",
+                    "id": "clib0zdhv000b3q649kfmb7wv"
+                },
+                {
+                    "text": "Change print out so that Columns are vertical and parallel",
+                    "id": "cligtiz8k000a3q64lg4yqupf"
+                }
+            ],
+            "id": "clib0zdhv000c3q64cvf1t141",
+            "color": "#fcb900"
+        },
+        {
+            "title": "Doing",
+            "tasks": [],
+            "id": "clib0zdhv000d3q64o0rr28pm",
+            "color": "#0693e3"
+        },
+        {
+            "title": "Done",
+            "tasks": [],
+            "id": "clib0zdhv000e3q643fkrs5ve",
+            "color": "#00d084"
+        }
+    ],
+    "autosave": true,
+    "saveToFile": true,
+    "timestamp": 1685846655623
+}
